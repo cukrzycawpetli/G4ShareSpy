@@ -1,2 +1,2 @@
 github "LoopKit/LoopKit" "omnipod-testing"
-github "LoopKit/dexcom-share-client-swift" "omnipod-testing"
+github "cukrzycawpetli/dexcom-share-client-swift" "omnipod-testing-nsshareserver"
